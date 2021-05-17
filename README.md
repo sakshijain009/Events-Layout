@@ -8,7 +8,7 @@ Then to run the project:<br>
 npm start
 ```
 
-* Events layout page using HTML and CSS:<br>
+* Events layout page using HTML and CSS: (Simple html layout)<br>
 <img src="reference/img.png"><br>
 * Timer Using React Hooks: <br><br>
 <img src="reference/time.png"><br><br>
@@ -16,3 +16,5 @@ npm start
 <img src="reference/name.png"><br><br>
 * Counter Using React Hooks: <br><br>
 <img src="reference/counter.png"><br>
+* Gallery layout page using HTML and CSS: (Simple html layout)<br>
+<img src="reference/gallery.png"><br>
