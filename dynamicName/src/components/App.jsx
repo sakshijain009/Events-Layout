@@ -7,7 +7,7 @@ function App() {
     email: ""
   });
 
-  function setDetails() {
+  function setDetails(event) {
     const { name, value } = event.target;
 
     setContact((prevValue) => {
