@@ -1,4 +1,4 @@
-# Some Useful Layouts
+# Some Useful Layouts 🤗
 Each folder or file is a seperate layout. For React layouts, download that particular folder and run the following commands after traversing inside that folder:<br>
 ```
 npm install
