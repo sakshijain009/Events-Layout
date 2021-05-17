@@ -1,4 +1,14 @@
 # Some Useful Layouts
+Each folder or file is a seperate layout. For React layouts, download that particular folder and run the following commands:<br>
+```
+npm install
+```
+<br>
+Then to run the project:<br>
+```
+npm start
+```
+<br>
 * Events layout page using HTML and CSS:<br>
 <img src="reference/img.png"><br>
 * Timer Using React Hooks: <br><br>
