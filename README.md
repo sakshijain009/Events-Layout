@@ -3,7 +3,6 @@ Each folder or file is a seperate layout. For React layouts, download that parti
 ```
 npm install
 ```
-<br>
 Then to run the project:<br>
 ```
 npm start
