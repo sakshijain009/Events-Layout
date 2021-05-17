@@ -15,6 +15,6 @@ npm start
 * Changing State Using React: <br><br>
 <img src="reference/name.png"><br><br>
 * Counter Using React Hooks: <br><br>
-<img src="reference/counter.png"><br>
-* Gallery layout page using HTML and CSS: (Simple html layout)<br>
+<img src="reference/counter.png"><br><br>
+* Gallery layout page using HTML and CSS: (Simple html layout)<br><br>
 <img src="reference/gallery.png"><br>
